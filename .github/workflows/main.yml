@@ -1,12 +1,12 @@
-name: Update TryHackMe Progress
+name: Auto Update TryHackMe Progress
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
-  workflow_dispatch:     # Allows manual trigger
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  update-progress:
+  run:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -18,15 +18,17 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install requests matplotlib
 
       - name: Run script
-        run: python main.py
+        env:
+          THM_COOKIE: ${{ secrets.THM_COOKIE }}
+        run: python thmprogress.py
 
-      - name: Commit changes
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Auto-update: TryHackMe progress" || echo "No changes to commit"
+          git add *.png *.json
+          git commit -m "Auto-update: THM progress charts" || echo "No changes"
           git push
