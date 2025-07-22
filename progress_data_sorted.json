@@ -2578,5 +2578,17 @@
     {
         "roomCode": "costly-clouds",
         "progressPercentage": 0
+    },
+    {
+        "roomCode": "health-hazard",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "typo-snare",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "chasing-apt28-shadows",
+        "progressPercentage": 0
     }
 ]
