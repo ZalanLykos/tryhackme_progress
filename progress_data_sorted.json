@@ -528,11 +528,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "busyvimfrosteau",
+        "roomCode": "armageddon2r",
         "progressPercentage": 0
     },
     {
-        "roomCode": "armageddon2r",
+        "roomCode": "busyvimfrosteau",
         "progressPercentage": 0
     },
     {
@@ -728,43 +728,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrlateralmovement",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "cloud101aws",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awslambda",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "thequestforleastprivilege",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "attackingdefendingvpcs",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "stscredentialslab",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "xdrprivesc",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsapigateway",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsvpcdataexfiltration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "iamcredentials",
         "progressPercentage": 0
     },
     {
@@ -772,39 +736,15 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamprincipals",
+        "roomCode": "xdrprivesc",
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsbasicconcepts",
+        "roomCode": "iamcredentials",
         "progressPercentage": 0
     },
     {
-        "roomCode": "introductiontoawsiam",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "xdrexecution",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiaminitialaccess",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "amazonec2attackdefense",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "xdrdefenseevasion",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "amazonec2attackdefense",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "attackingdefendingvpcs",
+        "roomCode": "awsapigateway",
         "progressPercentage": 0
     },
     {
@@ -812,7 +752,67 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "iampermissions",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiamenumeration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "introductiontoawsiam",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "lambdadataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsbasicconcepts",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamprincipals",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "attackingdefendingvpcs",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiaminitialaccess",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrexecution",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrdefenseevasion",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "canyouga",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awslambda",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "attackingdefendingvpcs",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "thequestforleastprivilege",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "awsvpcdataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrlateralmovement",
         "progressPercentage": 0
     },
     {
@@ -2016,10 +2016,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "overpass2hacked",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "anonymousplayground",
         "progressPercentage": 0
     },
@@ -2029,10 +2025,6 @@
     },
     {
         "roomCode": "pokemon",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "bufferoverflowprep",
         "progressPercentage": 0
     },
     {
@@ -2296,10 +2288,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "brainpan",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "cherryblossom",
         "progressPercentage": 0
     },
@@ -2349,10 +2337,6 @@
     },
     {
         "roomCode": "openvpn",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "dailybugle",
         "progressPercentage": 0
     },
     {
