@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "soupedecode01",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "directorydfirroom",
         "progressPercentage": 0
     },
@@ -736,7 +740,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrprivesc",
+        "roomCode": "xdrlateralmovement",
         "progressPercentage": 0
     },
     {
@@ -749,6 +753,10 @@
     },
     {
         "roomCode": "stscredentialslab",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrprivesc",
         "progressPercentage": 0
     },
     {
@@ -792,14 +800,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "canyouga",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awslambda",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "attackingdefendingvpcs",
         "progressPercentage": 0
     },
@@ -812,7 +812,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrlateralmovement",
+        "roomCode": "xdrexecution",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrprivesc",
         "progressPercentage": 0
     },
     {
