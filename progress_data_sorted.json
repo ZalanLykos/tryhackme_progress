@@ -2536,6 +2536,30 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "apt28-link-to-trouble-creds",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-Network",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-priv-esc",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-disc-pers",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-execution",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-initial-access",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "apt28-link-to-trouble",
         "progressPercentage": 0
     },
