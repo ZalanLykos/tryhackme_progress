@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "eventhorizonroom",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "soupedecode01",
         "progressPercentage": 0
     },
@@ -740,10 +744,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrlateralmovement",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "iamcredentials",
         "progressPercentage": 0
     },
@@ -756,7 +756,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrprivesc",
+        "roomCode": "xdrlateralmovement",
         "progressPercentage": 0
     },
     {
@@ -800,6 +800,10 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "iampermissions",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "attackingdefendingvpcs",
         "progressPercentage": 0
     },
@@ -812,11 +816,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrexecution",
+        "roomCode": "xdrdefenseevasion",
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrprivesc",
+        "roomCode": "xdrlateralmovement",
         "progressPercentage": 0
     },
     {
@@ -2536,6 +2540,10 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "apt28-link-to-trouble-initial-access",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "apt28-link-to-trouble-creds",
         "progressPercentage": 0
     },
@@ -2556,15 +2564,15 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "apt28-link-to-trouble-initial-access",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "apt28-link-to-trouble",
         "progressPercentage": 0
     },
     {
         "roomCode": "blackcat",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "costly-clouds",
         "progressPercentage": 0
     },
     {
@@ -2576,11 +2584,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "initial-drift",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "phishing-unfolding",
+        "roomCode": "open-door",
         "progressPercentage": 0
     },
     {
@@ -2588,11 +2592,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "open-door",
+        "roomCode": "initial-drift",
         "progressPercentage": 0
     },
     {
-        "roomCode": "costly-clouds",
+        "roomCode": "phishing-unfolding",
         "progressPercentage": 0
     },
     {
