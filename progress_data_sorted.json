@@ -548,15 +548,15 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "armageddon2r",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "busyvimfrosteau",
         "progressPercentage": 0
     },
     {
         "roomCode": "surfingyetiiscomingtotown",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "armageddon2r",
         "progressPercentage": 0
     },
     {
@@ -744,23 +744,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrexecution",
+        "roomCode": "iamcredentials",
         "progressPercentage": 0
     },
     {
-        "roomCode": "iampermissions",
+        "roomCode": "awslambda",
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrlateralmovement",
+        "roomCode": "awsvpcdataexfiltration",
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsiaminitialaccess",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "lambdadataexfiltration",
+        "roomCode": "awsiamenumeration",
         "progressPercentage": 0
     },
     {
@@ -772,14 +768,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awslambda",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "cloud101aws",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "introductiontoawsiam",
         "progressPercentage": 0
     },
@@ -788,19 +776,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsiamenumeration",
+        "roomCode": "awsiaminitialaccess",
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrprivesc",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "thequestforleastprivilege",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "thequestforleastprivilege",
+        "roomCode": "cloud101aws",
         "progressPercentage": 0
     },
     {
@@ -812,7 +792,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "introductiontoawsiam",
+        "roomCode": "amazonec2attackdefense",
         "progressPercentage": 0
     },
     {
@@ -820,11 +800,31 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "amazonec2attackdefense",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "awsvpcdataexfiltration",
         "progressPercentage": 0
     },
     {
-        "roomCode": "stscredentialslab",
+        "roomCode": "awss3service",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamprincipals",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iampermissions",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "attackingdefendingvpcs",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awslambda",
         "progressPercentage": 0
     },
     {
@@ -1073,10 +1073,6 @@
     },
     {
         "roomCode": "0x41haz",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "aratus",
         "progressPercentage": 0
     },
     {
