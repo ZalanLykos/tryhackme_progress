@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "websecurityessentials",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "hack2win",
         "progressPercentage": 0
     },
@@ -796,7 +800,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "amazonec2attackdefense",
+        "roomCode": "stscredentialslab",
         "progressPercentage": 0
     },
     {
