@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "malwareclassification",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "sessionforensics",
         "progressPercentage": 0
     },
@@ -796,7 +800,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "cloud101aws",
+        "roomCode": "xdrlateralmovement",
         "progressPercentage": 0
     },
     {
