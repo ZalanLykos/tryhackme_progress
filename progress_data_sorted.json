@@ -568,7 +568,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "busyvimfrosteau",
+        "roomCode": "adv3nt0fdbopsjcap",
         "progressPercentage": 0
     },
     {
@@ -576,11 +576,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "surfingyetiiscomingtotown",
+        "roomCode": "busyvimfrosteau",
         "progressPercentage": 0
     },
     {
-        "roomCode": "adv3nt0fdbopsjcap",
+        "roomCode": "surfingyetiiscomingtotown",
         "progressPercentage": 0
     },
     {
@@ -772,15 +772,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "stscredentialslab",
+        "roomCode": "attackingdefendingvpcs",
         "progressPercentage": 0
     },
     {
-        "roomCode": "lambdadataexfiltration",
+        "roomCode": "awsapigateway",
         "progressPercentage": 0
     },
     {
         "roomCode": "introductiontoawsiam",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awslambda",
         "progressPercentage": 0
     },
     {
@@ -792,7 +796,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awslambda",
+        "roomCode": "awsiamenumeration",
         "progressPercentage": 0
     },
     {
@@ -800,7 +804,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrprivesc",
+        "roomCode": "thequestforleastprivilege",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrdefenseevasion",
         "progressPercentage": 0
     },
     {
@@ -808,23 +816,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsiamenumeration",
+        "roomCode": "iampermissions",
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamcredentials",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "attackingdefendingvpcs",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsvpcdataexfiltration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "amazonec2attackdefense",
+        "roomCode": "stscredentialslab",
         "progressPercentage": 0
     },
     {
@@ -836,7 +832,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iampermissions",
+        "roomCode": "awsvpcdataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamcredentials",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "lambdadataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "attackingdefendingvpcs",
         "progressPercentage": 0
     },
     {
@@ -844,15 +852,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "stscredentialslab",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "thequestforleastprivilege",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "lambdadataexfiltration",
+        "roomCode": "amazonec2attackdefense",
         "progressPercentage": 0
     },
     {
@@ -1221,10 +1221,6 @@
     },
     {
         "roomCode": "phishingemails1tryoe",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "shaker",
         "progressPercentage": 0
     },
     {
