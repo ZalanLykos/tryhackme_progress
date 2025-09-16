@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "appsecir",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "detectingwebattacks",
         "progressPercentage": 0
     },
@@ -796,10 +800,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsiamenumeration",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awsiaminitialaccess",
         "progressPercentage": 0
     },
@@ -813,6 +813,10 @@
     },
     {
         "roomCode": "awss3service",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrexecution",
         "progressPercentage": 0
     },
     {
