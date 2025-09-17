@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "chainingvulnerabilitiesZp",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "appsecir",
         "progressPercentage": 0
     },
@@ -796,7 +800,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamprincipals",
+        "roomCode": "canyouga",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrexecution",
         "progressPercentage": 0
     },
     {
@@ -813,10 +821,6 @@
     },
     {
         "roomCode": "awss3service",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "xdrexecution",
         "progressPercentage": 0
     },
     {
