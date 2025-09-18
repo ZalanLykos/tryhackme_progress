@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "linuxloggingforsoc",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "chainingvulnerabilitiesZp",
         "progressPercentage": 0
     },
@@ -576,19 +580,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "adv3nt0fdbopsjcap",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "armageddon2r",
         "progressPercentage": 0
     },
     {
-        "roomCode": "busyvimfrosteau",
+        "roomCode": "surfingyetiiscomingtotown",
         "progressPercentage": 0
     },
     {
-        "roomCode": "surfingyetiiscomingtotown",
+        "roomCode": "adv3nt0fdbopsjcap",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "busyvimfrosteau",
         "progressPercentage": 0
     },
     {
@@ -669,10 +673,6 @@
     },
     {
         "roomCode": "introtologs",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "lessonlearned",
         "progressPercentage": 0
     },
     {
@@ -800,19 +800,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "canyouga",
+        "roomCode": "xdrlateralmovement",
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrexecution",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiaminitialaccess",
+        "roomCode": "awsiamenumeration",
         "progressPercentage": 0
     },
     {
         "roomCode": "thequestforleastprivilege",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrexecution",
         "progressPercentage": 0
     },
     {
