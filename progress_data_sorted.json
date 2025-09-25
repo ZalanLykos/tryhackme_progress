@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "linuxthreatdetection1",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "linuxloggingforsoc",
         "progressPercentage": 0
     },
@@ -796,7 +800,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsbasicconcepts",
+        "roomCode": "awsapigateway",
         "progressPercentage": 0
     },
     {
