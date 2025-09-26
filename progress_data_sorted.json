@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "networksecurityessentials",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "linuxthreatdetection1",
         "progressPercentage": 0
     },
@@ -796,7 +800,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awslambda",
+        "roomCode": "awsiaminitialaccess",
         "progressPercentage": 0
     },
     {
@@ -2605,6 +2609,10 @@
     },
     {
         "roomCode": "legal-shark",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "grounded-cloud",
         "progressPercentage": 0
     },
     {
