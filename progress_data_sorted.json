@@ -816,10 +816,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrlateralmovement",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awss3service",
         "progressPercentage": 0
     },
@@ -856,7 +852,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrexecution",
+        "roomCode": "xdrlateralmovement",
         "progressPercentage": 0
     },
     {
