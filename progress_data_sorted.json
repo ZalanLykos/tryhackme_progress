@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "networktrafficbasics",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "networkdiscoverydetection",
         "progressPercentage": 0
     },
@@ -796,7 +800,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsiamenumeration",
+        "roomCode": "canyouga",
         "progressPercentage": 0
     },
     {
