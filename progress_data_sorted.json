@@ -1,5 +1,13 @@
 [
     {
+        "roomCode": "initialaccesspot",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "phishingpond",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "networktrafficbasics",
         "progressPercentage": 0
     },
@@ -792,11 +800,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsapigateway",
+        "roomCode": "iamprincipals",
         "progressPercentage": 0
     },
     {
-        "roomCode": "attackingdefendingvpcs",
+        "roomCode": "xdrexecution",
         "progressPercentage": 0
     },
     {
@@ -820,10 +828,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "xdrprivesc",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awss3service",
         "progressPercentage": 0
     },
@@ -836,15 +840,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "cloud101aws",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awsbasicconcepts",
         "progressPercentage": 0
     },
     {
+        "roomCode": "cloud101aws",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "awsvpcdataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "xdrprivesc",
         "progressPercentage": 0
     },
     {
@@ -2541,18 +2549,6 @@
     },
     {
         "roomCode": "defensivesecurityintroQR",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "adenumeration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "breachingad",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "wreath",
         "progressPercentage": 0
     },
     {
