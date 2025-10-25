@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "elevatingmovement",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "initialaccesspot",
         "progressPercentage": 0
     },
