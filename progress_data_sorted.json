@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "inputmanipulationpromptinjection",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "elevatingmovement",
         "progressPercentage": 0
     },
