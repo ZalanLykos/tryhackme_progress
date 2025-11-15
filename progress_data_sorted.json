@@ -1,5 +1,17 @@
 [
     {
+        "roomCode": "owasptopten2025three",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "owasptopten2025two",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "owasptopten2025one",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "inputmanipulationpromptinjection",
         "progressPercentage": 0
     },
