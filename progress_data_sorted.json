@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "thecasesevenminutesontheseine",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "adventofcyberpreptrack",
         "progressPercentage": 0
     },
@@ -25,14 +29,6 @@
     },
     {
         "roomCode": "inputmanipulationpromptinjection",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "elevatingmovement",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "initialaccesspot",
         "progressPercentage": 0
     },
     {
