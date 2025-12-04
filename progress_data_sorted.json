@@ -1,5 +1,13 @@
 [
     {
+        "roomCode": "splunkforloganalysis-aoc2025-x8fj2k4rqp",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "phishing-aoc2025-h2tkye9fzU",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "sq1-aoc2025-FzPnrt2SAu",
         "progressPercentage": 0
     },
@@ -620,11 +628,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "busyvimfrosteau",
+        "roomCode": "adv3nt0fdbopsjcap",
         "progressPercentage": 0
     },
     {
-        "roomCode": "adv3nt0fdbopsjcap",
+        "roomCode": "busyvimfrosteau",
         "progressPercentage": 0
     },
     {
@@ -804,6 +812,74 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "iamprincipals",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsbasicconcepts",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsvpcdataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiamenumeration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiaminitialaccess",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsapigateway",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "amazonec2attackdefense",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awss3service",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamcredentials",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "attackingdefendingvpcs",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iampermissions",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "thequestforleastprivilege",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "cloud101aws",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "lambdadataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "stscredentialslab",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "introductiontoawsiam",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awslambda",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "opacity",
         "progressPercentage": 0
     },
@@ -817,10 +893,6 @@
     },
     {
         "roomCode": "unattended",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "owasptop102021",
         "progressPercentage": 0
     },
     {
@@ -2009,10 +2081,6 @@
     },
     {
         "roomCode": "overpass",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "owasptop10",
         "progressPercentage": 0
     },
     {
