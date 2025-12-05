@@ -812,11 +812,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamprincipals",
+        "roomCode": "awsbasicconcepts",
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsbasicconcepts",
+        "roomCode": "iamprincipals",
         "progressPercentage": 0
     },
     {
@@ -2541,6 +2541,10 @@
     },
     {
         "roomCode": "offensivesecurityintrokK",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "wreath",
         "progressPercentage": 0
     },
     {
