@@ -1,5 +1,17 @@
 [
     {
+        "roomCode": "react2shellcve202555182",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "idor-aoc2025-zl6MywQid9",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "AIforcyber-aoc2025-y9wWQ1zRgB",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "splunkforloganalysis-aoc2025-x8fj2k4rqp",
         "progressPercentage": 0
     },
@@ -2541,6 +2553,14 @@
     },
     {
         "roomCode": "offensivesecurityintrokK",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "adenumeration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "breachingad",
         "progressPercentage": 0
     },
     {
