@@ -1,5 +1,13 @@
 [
     {
+        "roomCode": "sq2-aoc2025-JxiOKUSD9R",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "attacks-on-ecrypted-files-aoc2025-asdfghj123",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "promptinjection-aoc2025-sxUMnCkvLO",
         "progressPercentage": 0
     },
@@ -2577,6 +2585,10 @@
     },
     {
         "roomCode": "wreath",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1053",
         "progressPercentage": 0
     },
     {
