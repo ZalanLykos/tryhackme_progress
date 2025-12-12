@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "xss-aoc2025-c5j8b1m4t6",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "azuresentinel-aoc2025-a7d3h9k0p2",
         "progressPercentage": 0
     },
@@ -2600,31 +2604,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "apt28-link-to-trouble-initial-access",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "apt28-link-to-trouble-creds",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "apt28-link-to-trouble-Network",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "apt28-link-to-trouble-priv-esc",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "apt28-link-to-trouble-disc-pers",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "apt28-link-to-trouble-execution",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "apt28-link-to-trouble",
         "progressPercentage": 0
     },
     {
@@ -2640,15 +2620,31 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "apt28-link-to-trouble-Network",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-priv-esc",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-disc-pers",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-initial-access",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble-execution",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "apt28-link-to-trouble",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "hidden-hooks",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "open-door",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "upload-and-conquer",
         "progressPercentage": 0
     },
     {
@@ -2656,11 +2652,15 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "phishing-unfolding",
+        "roomCode": "upload-and-conquer",
         "progressPercentage": 0
     },
     {
-        "roomCode": "legal-shark",
+        "roomCode": "open-door",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "phishing-unfolding",
         "progressPercentage": 0
     },
     {
@@ -2668,7 +2668,15 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "health-hazard",
+        "roomCode": "typo-snare",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "legal-shark",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "chasing-apt28-shadows",
         "progressPercentage": 0
     },
     {
@@ -2676,11 +2684,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "typo-snare",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "chasing-apt28-shadows",
+        "roomCode": "health-hazard",
         "progressPercentage": 0
     }
 ]
