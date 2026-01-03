@@ -1,9 +1,5 @@
 [
     {
-        "roomCode": "n8ncve202568613",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "webhackingusingcurl-aoc2025-w8q1a4s7d0",
         "progressPercentage": 0
     },
@@ -920,11 +916,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsbasicconcepts",
+        "roomCode": "iamprincipals",
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamprincipals",
+        "roomCode": "awsbasicconcepts",
         "progressPercentage": 0
     },
     {
@@ -2649,18 +2645,6 @@
     },
     {
         "roomCode": "offensivesecurityintrokK",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "adenumeration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "breachingad",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "wreath",
         "progressPercentage": 0
     },
     {
