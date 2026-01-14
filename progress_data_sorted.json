@@ -1185,7 +1185,7 @@
     },
     {
         "roomCode": "offensivesecurityintro",
-        "progressPercentage": 100
+        "progressPercentage": 0
     },
     {
         "roomCode": "plottedlms",
@@ -2633,6 +2633,10 @@
     },
     {
         "roomCode": "crackthehash",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "offensivesecurityintrokKx12",
         "progressPercentage": 0
     },
     {
