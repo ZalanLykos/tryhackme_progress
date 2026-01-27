@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "geoservercve202558360",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "first-shift-ctf",
         "progressPercentage": 0
     },
@@ -728,11 +732,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "armageddon2r",
+        "roomCode": "busyvimfrosteau",
         "progressPercentage": 0
     },
     {
-        "roomCode": "surfingyetiiscomingtotown",
+        "roomCode": "armageddon2r",
         "progressPercentage": 0
     },
     {
@@ -740,7 +744,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "busyvimfrosteau",
+        "roomCode": "surfingyetiiscomingtotown",
         "progressPercentage": 0
     },
     {
@@ -920,6 +924,10 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "awsapigateway",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "iamprincipals",
         "progressPercentage": 0
     },
@@ -928,7 +936,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsvpcdataexfiltration",
+        "roomCode": "awsiaminitialaccess",
         "progressPercentage": 0
     },
     {
@@ -936,27 +944,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsiaminitialaccess",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsapigateway",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "amazonec2attackdefense",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awss3service",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "iamcredentials",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "attackingdefendingvpcs",
+        "roomCode": "awsvpcdataexfiltration",
         "progressPercentage": 0
     },
     {
@@ -964,7 +952,27 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "stscredentialslab",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awss3service",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "thequestforleastprivilege",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamcredentials",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awslambda",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "amazonec2attackdefense",
         "progressPercentage": 0
     },
     {
@@ -972,11 +980,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "lambdadataexfiltration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "stscredentialslab",
+        "roomCode": "attackingdefendingvpcs",
         "progressPercentage": 0
     },
     {
@@ -984,7 +988,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awslambda",
+        "roomCode": "lambdadataexfiltration",
         "progressPercentage": 0
     },
     {
@@ -1125,10 +1129,6 @@
     },
     {
         "roomCode": "annie",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "islandorchestration",
         "progressPercentage": 0
     },
     {
@@ -1305,6 +1305,10 @@
     },
     {
         "roomCode": "ret2libc",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "offensivesecurityintrokKx12l39",
         "progressPercentage": 0
     },
     {
