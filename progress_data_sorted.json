@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "cloudsecuritypitfalls",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "geoservercve202558360",
         "progressPercentage": 0
     },
@@ -2657,6 +2661,10 @@
     },
     {
         "roomCode": "offensivesecurityintrokK",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1197",
         "progressPercentage": 0
     },
     {
