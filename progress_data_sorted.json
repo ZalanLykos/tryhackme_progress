@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "operationslitherIU",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "cloudsecuritypitfalls",
         "progressPercentage": 0
     },
@@ -248,10 +252,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "honeynet-collapse",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "windowsthreatdetection1",
         "progressPercentage": 0
     },
@@ -361,10 +361,6 @@
     },
     {
         "roomCode": "billing",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "HackfinityBattle",
         "progressPercentage": 0
     },
     {
@@ -1345,6 +1341,10 @@
     },
     {
         "roomCode": "redteamthreatintel",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "defensivesecurityintroez",
         "progressPercentage": 0
     },
     {
