@@ -740,11 +740,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "adv3nt0fdbopsjcap",
+        "roomCode": "surfingyetiiscomingtotown",
         "progressPercentage": 0
     },
     {
-        "roomCode": "surfingyetiiscomingtotown",
+        "roomCode": "adv3nt0fdbopsjcap",
         "progressPercentage": 0
     },
     {
@@ -924,55 +924,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsapigateway",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "iamprincipals",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awsbasicconcepts",
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsiaminitialaccess",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiamenumeration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsvpcdataexfiltration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "iampermissions",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "stscredentialslab",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awss3service",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "thequestforleastprivilege",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "iamcredentials",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awslambda",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "amazonec2attackdefense",
+        "roomCode": "lambdadataexfiltration",
         "progressPercentage": 0
     },
     {
@@ -980,7 +936,39 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "awsiamenumeration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsapigateway",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiaminitialaccess",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamcredentials",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "attackingdefendingvpcs",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iampermissions",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awss3service",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "amazonec2attackdefense",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "thequestforleastprivilege",
         "progressPercentage": 0
     },
     {
@@ -988,7 +976,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "lambdadataexfiltration",
+        "roomCode": "stscredentialslab",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awslambda",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamprincipals",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsvpcdataexfiltration",
         "progressPercentage": 0
     },
     {
@@ -1577,10 +1577,6 @@
     },
     {
         "roomCode": "coldvvars",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "whatisnetworking",
         "progressPercentage": 0
     },
     {
