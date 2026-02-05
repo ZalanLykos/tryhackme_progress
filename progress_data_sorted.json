@@ -1,5 +1,13 @@
 [
     {
+        "roomCode": "virtualisationbasics",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "cloudcomputingfundamentals",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "operationslitherIU",
         "progressPercentage": 0
     },
