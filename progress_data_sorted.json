@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "osintchallengeiv",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "virtualisationbasics",
         "progressPercentage": 0
     },
