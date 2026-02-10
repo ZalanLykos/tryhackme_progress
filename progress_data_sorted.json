@@ -1,5 +1,17 @@
 [
     {
+        "roomCode": "lafbctf2026-advanced",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "windowsbasics",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "operatingsystemsintroduction",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "osintchallengeiv",
         "progressPercentage": 0
     },
