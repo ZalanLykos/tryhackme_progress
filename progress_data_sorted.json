@@ -1,5 +1,13 @@
 [
     {
+        "roomCode": "computertypes",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "insideacomputer",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "lafbctf2026-advanced",
         "progressPercentage": 0
     },
@@ -756,19 +764,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "busyvimfrosteau",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "armageddon2r",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "surfingyetiiscomingtotown",
         "progressPercentage": 0
     },
     {
+        "roomCode": "busyvimfrosteau",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "adv3nt0fdbopsjcap",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "armageddon2r",
         "progressPercentage": 0
     },
     {
@@ -948,19 +956,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsbasicconcepts",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "lambdadataexfiltration",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "cloud101aws",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiamenumeration",
         "progressPercentage": 0
     },
     {
@@ -968,11 +964,27 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "awsbasicconcepts",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "introductiontoawsiam",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "lambdadataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiamenumeration",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "awsiaminitialaccess",
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamcredentials",
+        "roomCode": "iampermissions",
         "progressPercentage": 0
     },
     {
@@ -980,7 +992,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iampermissions",
+        "roomCode": "iamcredentials",
         "progressPercentage": 0
     },
     {
@@ -996,11 +1008,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "introductiontoawsiam",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "stscredentialslab",
+        "roomCode": "iamprincipals",
         "progressPercentage": 0
     },
     {
@@ -1008,7 +1016,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamprincipals",
+        "roomCode": "stscredentialslab",
         "progressPercentage": 0
     },
     {
@@ -2449,10 +2457,6 @@
     },
     {
         "roomCode": "hackernote",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "hydra",
         "progressPercentage": 0
     },
     {
