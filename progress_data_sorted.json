@@ -2744,6 +2744,18 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "persistence-t1547",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1197",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1053",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "introduction-to-phishing",
         "progressPercentage": 0
     },
@@ -2777,14 +2789,6 @@
     },
     {
         "roomCode": "apt28-link-to-trouble-creds",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "persistence-t1053",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "persistence-t1197",
         "progressPercentage": 0
     },
     {
