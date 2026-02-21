@@ -1,10 +1,30 @@
 [
     {
+        "roomCode": "becomeadefender",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "becomeahacker",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "cryptographyconcepts",
         "progressPercentage": 0
     },
     {
         "roomCode": "theciatriad",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "databasesqlbasics",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "javascriptsimpledemo",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "pythonsimpledemo",
         "progressPercentage": 0
     },
     {
@@ -64,6 +84,14 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "windowsclibasics",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "linuxclibasics",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "lafbctf2026-advanced",
         "progressPercentage": 0
     },
@@ -77,6 +105,10 @@
     },
     {
         "roomCode": "osintchallengeiv",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "clientserverbasics",
         "progressPercentage": 0
     },
     {
@@ -1008,7 +1040,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsbasicconcepts",
+        "roomCode": "iamprincipals",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "stscredentialslab",
         "progressPercentage": 0
     },
     {
@@ -1016,31 +1052,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "cloud101aws",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awsiamenumeration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsapigateway",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiaminitialaccess",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "iamcredentials",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "attackingdefendingvpcs",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "iampermissions",
         "progressPercentage": 0
     },
     {
@@ -1052,7 +1064,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "thequestforleastprivilege",
+        "roomCode": "awsiaminitialaccess",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsbasicconcepts",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamcredentials",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsvpcdataexfiltration",
         "progressPercentage": 0
     },
     {
@@ -1060,7 +1084,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "stscredentialslab",
+        "roomCode": "attackingdefendingvpcs",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsapigateway",
         "progressPercentage": 0
     },
     {
@@ -1068,11 +1096,15 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamprincipals",
+        "roomCode": "iampermissions",
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsvpcdataexfiltration",
+        "roomCode": "thequestforleastprivilege",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "cloud101aws",
         "progressPercentage": 0
     },
     {
@@ -1309,6 +1341,10 @@
     },
     {
         "roomCode": "dirtypipe",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "operatingsystemsecurity",
         "progressPercentage": 0
     },
     {
@@ -1661,6 +1697,26 @@
     },
     {
         "roomCode": "coldvvars",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "whatisnetworking",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "osimodelzi",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "packetsframes",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "introtolan",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "extendingyournetwork",
         "progressPercentage": 0
     },
     {
@@ -2820,6 +2876,10 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "health-hazard",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "grounded-cloud",
         "progressPercentage": 0
     },
@@ -2837,10 +2897,6 @@
     },
     {
         "roomCode": "darker-cat",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "health-hazard",
         "progressPercentage": 0
     }
 ]
