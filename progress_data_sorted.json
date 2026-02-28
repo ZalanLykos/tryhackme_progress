@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "operationendgame",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "cryptographyconcepts",
         "progressPercentage": 0
     },
@@ -2725,6 +2729,10 @@
     },
     {
         "roomCode": "defensivesecurityintroqW",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1037",
         "progressPercentage": 0
     },
     {
