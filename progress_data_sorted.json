@@ -824,15 +824,15 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "busyvimfrosteau",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "armageddon2r",
         "progressPercentage": 0
     },
     {
         "roomCode": "adv3nt0fdbopsjcap",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "busyvimfrosteau",
         "progressPercentage": 0
     },
     {
@@ -1012,27 +1012,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsbasicconcepts",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "lambdadataexfiltration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "cloud101aws",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiamenumeration",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awsapigateway",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiaminitialaccess",
         "progressPercentage": 0
     },
     {
@@ -1040,15 +1020,23 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "attackingdefendingvpcs",
+        "roomCode": "iamprincipals",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "introductiontoawsiam",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiamenumeration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiaminitialaccess",
         "progressPercentage": 0
     },
     {
         "roomCode": "iampermissions",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awss3service",
         "progressPercentage": 0
     },
     {
@@ -1060,7 +1048,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "introductiontoawsiam",
+        "roomCode": "awss3service",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "attackingdefendingvpcs",
         "progressPercentage": 0
     },
     {
@@ -1068,15 +1060,23 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "cloud101aws",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "awslambda",
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamprincipals",
+        "roomCode": "awsvpcdataexfiltration",
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsvpcdataexfiltration",
+        "roomCode": "awsbasicconcepts",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "lambdadataexfiltration",
         "progressPercentage": 0
     },
     {
@@ -1904,10 +1904,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "enpass",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "linuxmodules",
         "progressPercentage": 0
     },
@@ -1949,10 +1945,6 @@
     },
     {
         "roomCode": "cyborgt8",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "sustah",
         "progressPercentage": 0
     },
     {
