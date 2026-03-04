@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "monitoringactivedirectory",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "operationendgame",
         "progressPercentage": 0
     },
