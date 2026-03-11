@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "m365monitoringbasics",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "monitoringactivedirectory",
         "progressPercentage": 0
     },
@@ -837,6 +841,10 @@
     },
     {
         "roomCode": "adv3nt0fdbopsjcap",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "defensivesecurityintroezn39",
         "progressPercentage": 0
     },
     {
@@ -2576,14 +2584,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "retro",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "ice",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "blue",
         "progressPercentage": 0
     },
@@ -2833,6 +2833,14 @@
     },
     {
         "roomCode": "darker-cat",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "retro",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "ice",
         "progressPercentage": 0
     }
 ]
