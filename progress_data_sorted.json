@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "entraidmonitoring",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "m365monitoringbasics",
         "progressPercentage": 0
     },
