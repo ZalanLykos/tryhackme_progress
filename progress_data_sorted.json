@@ -836,11 +836,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "armageddon2r",
+        "roomCode": "busyvimfrosteau",
         "progressPercentage": 0
     },
     {
-        "roomCode": "busyvimfrosteau",
+        "roomCode": "armageddon2r",
         "progressPercentage": 0
     },
     {
@@ -1028,19 +1028,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iampermissions",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "cloud101aws",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "introductiontoawsiam",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awsapigateway",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iamprincipals",
         "progressPercentage": 0
     },
     {
@@ -1056,11 +1048,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "thequestforleastprivilege",
+        "roomCode": "awsvpcdataexfiltration",
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamcredentials",
+        "roomCode": "iampermissions",
         "progressPercentage": 0
     },
     {
@@ -1072,15 +1064,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsvpcdataexfiltration",
+        "roomCode": "thequestforleastprivilege",
         "progressPercentage": 0
     },
     {
-        "roomCode": "amazonec2attackdefense",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "iamprincipals",
+        "roomCode": "iamcredentials",
         "progressPercentage": 0
     },
     {
@@ -1088,7 +1076,19 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "amazonec2attackdefense",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "cloud101aws",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "attackingdefendingvpcs",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "introductiontoawsiam",
         "progressPercentage": 0
     },
     {
@@ -1924,6 +1924,10 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "enpass",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "linuxmodules",
         "progressPercentage": 0
     },
@@ -1965,6 +1969,10 @@
     },
     {
         "roomCode": "cyborgt8",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "sustah",
         "progressPercentage": 0
     },
     {
