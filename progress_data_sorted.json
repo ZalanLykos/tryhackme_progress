@@ -1,5 +1,13 @@
 [
     {
+        "roomCode": "devdiaries",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "missingperson",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "entraidmonitoring",
         "progressPercentage": 0
     },
