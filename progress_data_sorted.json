@@ -2748,19 +2748,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "persistence-t1098",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "persistence-t1037",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "introduction-to-phishing",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "persistence-t1547",
+        "roomCode": "persistence-t1053",
         "progressPercentage": 0
     },
     {
@@ -2768,7 +2756,19 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "persistence-t1053",
+        "roomCode": "persistence-t1547",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1037",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1098",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "introduction-to-phishing",
         "progressPercentage": 0
     },
     {
