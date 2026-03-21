@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "msintunemonitoring",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "devdiaries",
         "progressPercentage": 0
     },
@@ -2748,31 +2752,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "persistence-t1053",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "persistence-t1197",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "persistence-t1547",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "persistence-t1037",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "persistence-t1098",
+        "roomCode": "phishing-unfolding-v2",
         "progressPercentage": 0
     },
     {
         "roomCode": "introduction-to-phishing",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "phishing-unfolding-v2",
         "progressPercentage": 0
     },
     {
@@ -2804,10 +2788,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "hidden-hooks",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "blackcat",
         "progressPercentage": 0
     },
@@ -2825,6 +2805,26 @@
     },
     {
         "roomCode": "open-door",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1053",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1197",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1547",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1037",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1098",
         "progressPercentage": 0
     },
     {
