@@ -861,7 +861,7 @@
     },
     {
         "roomCode": "defensivesecurityintroezn39",
-        "progressPercentage": 0
+        "progressPercentage": 100
     },
     {
         "roomCode": "adventofcyber2023",
@@ -1305,7 +1305,7 @@
     },
     {
         "roomCode": "offensivesecurityintro",
-        "progressPercentage": 0
+        "progressPercentage": 100
     },
     {
         "roomCode": "plottedlms",
@@ -1424,6 +1424,10 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "offensivesecurityintrokKx12l39",
+        "progressPercentage": 100
+    },
+    {
         "roomCode": "commonattacks",
         "progressPercentage": 0
     },
@@ -1454,6 +1458,10 @@
     {
         "roomCode": "redteamthreatintel",
         "progressPercentage": 0
+    },
+    {
+        "roomCode": "defensivesecurityintroez",
+        "progressPercentage": 100
     },
     {
         "roomCode": "contiransomwarehgh",
@@ -2745,11 +2753,19 @@
     },
     {
         "roomCode": "offensivesecurityintrokKx12",
-        "progressPercentage": 0
+        "progressPercentage": 100
+    },
+    {
+        "roomCode": "offensivesecurityintrokK",
+        "progressPercentage": 100
     },
     {
         "roomCode": "defensivesecurityintroqW",
-        "progressPercentage": 0
+        "progressPercentage": 100
+    },
+    {
+        "roomCode": "defensivesecurityintroQR",
+        "progressPercentage": 100
     },
     {
         "roomCode": "phishing-unfolding-v2",
