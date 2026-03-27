@@ -2776,11 +2776,23 @@
         "progressPercentage": 100
     },
     {
-        "roomCode": "phishing-unfolding-v2",
+        "roomCode": "hidden-hooks",
         "progressPercentage": 0
     },
     {
         "roomCode": "introduction-to-phishing",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "phishing-unfolding-v2",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "open-door",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "upload-and-conquer",
         "progressPercentage": 0
     },
     {
@@ -2821,14 +2833,6 @@
     },
     {
         "roomCode": "initial-drift",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "upload-and-conquer",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "open-door",
         "progressPercentage": 0
     },
     {
