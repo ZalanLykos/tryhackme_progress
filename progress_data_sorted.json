@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "vulnerabilityscanningtools",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "plantphotographer",
         "progressPercentage": 0
     },
@@ -2778,6 +2782,10 @@
     {
         "roomCode": "defensivesecurityintroQR",
         "progressPercentage": 100
+    },
+    {
+        "roomCode": "presecuritylegacy",
+        "progressPercentage": 0
     },
     {
         "roomCode": "hidden-hooks",
