@@ -1,5 +1,13 @@
 [
     {
+        "roomCode": "waterbottle",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "wazuhcve202625769",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "vulnerabilityscanningtools",
         "progressPercentage": 0
     },
