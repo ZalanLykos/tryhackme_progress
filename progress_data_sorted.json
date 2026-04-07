@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "csrfintroduction",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "haveabreak",
         "progressPercentage": 0
     },
@@ -2796,7 +2800,7 @@
         "progressPercentage": 100
     },
     {
-        "roomCode": "defensivesecurityintroQR",
+        "roomCode": "offensivesecurityintrokK",
         "progressPercentage": 100
     },
     {
