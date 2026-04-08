@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "phishingbasics",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "csrfintroduction",
         "progressPercentage": 0
     },
@@ -1068,35 +1072,7 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iampermissions",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "cloud101aws",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "introductiontoawsiam",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "awsapigateway",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsbasicconcepts",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiaminitialaccess",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "awsiamenumeration",
-        "progressPercentage": 0
-    },
-    {
-        "roomCode": "thequestforleastprivilege",
         "progressPercentage": 0
     },
     {
@@ -1104,15 +1080,23 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "awss3service",
+        "roomCode": "iamprincipals",
         "progressPercentage": 0
     },
     {
-        "roomCode": "stscredentialslab",
+        "roomCode": "introductiontoawsiam",
         "progressPercentage": 0
     },
     {
-        "roomCode": "awsvpcdataexfiltration",
+        "roomCode": "awsiamenumeration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsiaminitialaccess",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "iampermissions",
         "progressPercentage": 0
     },
     {
@@ -1120,7 +1104,23 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "iamprincipals",
+        "roomCode": "thequestforleastprivilege",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awss3service",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "attackingdefendingvpcs",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "stscredentialslab",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "cloud101aws",
         "progressPercentage": 0
     },
     {
@@ -1128,7 +1128,11 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "attackingdefendingvpcs",
+        "roomCode": "awsvpcdataexfiltration",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "awsbasicconcepts",
         "progressPercentage": 0
     },
     {
@@ -1992,10 +1996,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "cyberweek2021",
-        "progressPercentage": 0
-    },
-    {
         "roomCode": "madeyescastle",
         "progressPercentage": 0
     },
@@ -2805,6 +2805,14 @@
     },
     {
         "roomCode": "presecuritylegacy",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1574",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "persistence-t1543",
         "progressPercentage": 0
     },
     {
