@@ -892,10 +892,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "defensivesecurityintroezn39",
-        "progressPercentage": 100
-    },
-    {
         "roomCode": "adventofcyber2023",
         "progressPercentage": 0
     },
@@ -1456,10 +1452,6 @@
         "progressPercentage": 0
     },
     {
-        "roomCode": "offensivesecurityintrokKx12l39",
-        "progressPercentage": 100
-    },
-    {
         "roomCode": "commonattacks",
         "progressPercentage": 0
     },
@@ -1490,10 +1482,6 @@
     {
         "roomCode": "redteamthreatintel",
         "progressPercentage": 0
-    },
-    {
-        "roomCode": "defensivesecurityintroez",
-        "progressPercentage": 100
     },
     {
         "roomCode": "contiransomwarehgh",
@@ -2786,22 +2774,6 @@
     {
         "roomCode": "crackthehash",
         "progressPercentage": 0
-    },
-    {
-        "roomCode": "offensivesecurityintrokKx12",
-        "progressPercentage": 100
-    },
-    {
-        "roomCode": "offensivesecurityintrokK",
-        "progressPercentage": 100
-    },
-    {
-        "roomCode": "defensivesecurityintroqW",
-        "progressPercentage": 100
-    },
-    {
-        "roomCode": "offensivesecurityintrokK",
-        "progressPercentage": 100
     },
     {
         "roomCode": "presecuritylegacy",
