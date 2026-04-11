@@ -400,6 +400,14 @@
         "progressPercentage": 0
     },
     {
+        "roomCode": "containment",
+        "progressPercentage": 0
+    },
+    {
+        "roomCode": "aiforensics",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "aimlsecuritythreats",
         "progressPercentage": 0
     },
