@@ -1,5 +1,9 @@
 [
     {
+        "roomCode": "chainreaction-bt",
+        "progressPercentage": 0
+    },
+    {
         "roomCode": "phishingbasics",
         "progressPercentage": 0
     },
